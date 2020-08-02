@@ -8,5 +8,6 @@ If we research about type of traditional masks, we can easily see that all type 
 
 The Smart Mask was printed by 3D Printer according to the CAD, it has filter, it means, you don't need to buy the mask again  (like traditional masks), you only need to change the filter of it. The micro-controller of Smart Mask is TTGO ESP32, and temperature sensor is ds18b20. The energy source of Smart Mask is 3.7V Li-Po Battery, it can easily provide the Smart Mask with energy. The program was written with using C++ in Arduino IDE. Due to the program, the mask can also find our approximate body temperature according to the face temperature. Another advantage of Mask is that, you can see your temperature in phone as well, also you can send some commands to the mask, for instance if you want to deactivate display, and save your battery energy, you need to write in Serial Terminal 'deactivate display', after few minutes it will turn off display. Also it has other commands (activate display, face temperature, approximately body temperature etc). 
 
-![mask](https://user-images.githubusercontent.com/56725845/89120894-e3e2df00-d4ca-11ea-8376-55e547f30844.png) ![motor](https://user-images.githubusercontent.com/56725845/89120904-fc52f980-d4ca-11ea-9ab3-68a0a5043616.jpeg)
+![mask](https://user-images.githubusercontent.com/56725845/89120894-e3e2df00-d4ca-11ea-8376-55e547f30844.png)
+<img src = "https://user-images.githubusercontent.com/56725845/89120894-e3e2df00-d4ca-11ea-8376-55e547f30844.png" width = "100" height = "10">
 
